@@ -41,7 +41,7 @@ function updateData(obj) {
 
 function setup() {
   createCanvas(600, 600);
-  frameRate(60);
+  // frameRate(30);
   textAlign(LEFT, TOP);
   fill(0);
 }
