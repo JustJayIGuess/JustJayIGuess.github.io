@@ -4,7 +4,7 @@ let t_max;
 let data_loaded = false;
 
 let t;
-const SCALE = 100;
+const SCALE = 500;
 const DIAMETER = 10 / SCALE;
 let saving_gif = false;
 
